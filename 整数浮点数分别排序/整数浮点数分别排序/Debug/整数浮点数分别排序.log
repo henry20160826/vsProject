@@ -1,0 +1,5 @@
+﻿  源.cpp
+j:\vsproject\整数浮点数分别排序\整数浮点数分别排序\源.cpp(91): warning C4305: “*=”: 从“double”到“float”截断
+j:\vsproject\整数浮点数分别排序\整数浮点数分别排序\源.cpp(96): warning C4305: “=”: 从“double”到“float”截断
+j:\vsproject\整数浮点数分别排序\整数浮点数分别排序\源.cpp(97): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  整数浮点数分别排序.vcxproj -> J:\vsProject\整数浮点数分别排序\Debug\整数浮点数分别排序.exe

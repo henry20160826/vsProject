@@ -1,0 +1,6 @@
+﻿  源.cpp
+j:\vsproject\链表\链表\源.cpp(19): warning C4101: “temp”: 未引用的局部变量
+j:\vsproject\链表\链表\源.cpp(32): warning C4101: “temp”: 未引用的局部变量
+j:\vsproject\链表\链表\源.cpp(136): warning C4101: “p”: 未引用的局部变量
+j:\vsproject\链表\链表\源.cpp(153): warning C4101: “p”: 未引用的局部变量
+  链表.vcxproj -> J:\vsProject\链表\Debug\链表.exe

@@ -1,0 +1,4 @@
+﻿  源.cpp
+j:\vsproject\质因分解\质因分解\源.cpp(7): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\质因分解\质因分解\源.cpp(6): warning C4101: “a”: 未引用的局部变量
+  质因分解.vcxproj -> J:\vsProject\质因分解\Debug\质因分解.exe
